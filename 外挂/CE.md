@@ -2,6 +2,7 @@
 `
     Cheat Engine
     可以用来查找内存，修改内存等操作的工具
+    (下载地址: https://www.cheatengine.org/downloads.php)
 
     功能区划分:
     顶部工具条
